@@ -8,6 +8,8 @@
 let touristDestination=["Sundarban","Sajek","Coxesbazar","Rangamati","Sent-martin"];
 console.log(touristDestination);
 // let add=touristDestination.push("Lalbag fort")
+touristDestination.push("Sompur Mohabihar")
+console.log(touristDestination);
 touristDestination.push("Lalbag fort","Ahsan Manjil");
 console.log(touristDestination);
 touristDestination.pop();
